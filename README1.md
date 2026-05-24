@@ -14,7 +14,7 @@ accurate, policy-cited answers to procurement queries.
 https://cloud.flowiseai.com/chatbot/6dd6ddda-b990-4635-845f-6593739719b3
 
 **GitHub Repository:**
-https://github.com/[YOUR-USERNAME]/scm-assistant-bot
+https://github.com/Ranveergit/Floweise_Rag-Based-BQBYTE-s-suppliers-Network-Query-Chatbot
 
 ---
 
