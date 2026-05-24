@@ -299,18 +299,4 @@ category is approaching the limit and warrants close monitoring.
 3. **Supplier-level chunking** — pre-aggregate CSV to one chunk per supplier (all POs merged) so Top K=20 = 20 complete supplier profiles
 4. **GPT-4o or LLaMA 3.1 405B** — more powerful LLM for complex multi-document cross-referencing
 5. **Hybrid BM25 + vector search** — combine keyword search for exact supplier names with semantic search for policy concepts
-
----
-
-## 11. Security Notes
-
-- No API keys committed to GitHub
-- .gitignore excludes: .env, *.env, api_keys.txt, secrets/
-- All credentials stored in Flowise credential manager, not in chatflow JSON
-- Public chatbot URL is read-only — no data modification possible
-
----
-
-*BQBYTE Technologies Supply Chain Assistant*
-*Built for Trinamix INC Hiring Assessment | Ref: TX-JrAI-003*
-*Flowise Cloud | LLaMA 3.3 70B | HuggingFace Embeddings | Qdrant Vector Store*
+*
