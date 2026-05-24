@@ -1,4 +1,4 @@
-# SCM Assistant — Full Project Report
+# Flowise_Rag_based_BQBYTE_SUPPLIERS_NETWORK_QUERY_CHATBOT— Full Project Report
 ### Trinamix Hiring Task | Junior AI Engineer | Ref: TX-JrAI-003
 
 ---
